@@ -13,3 +13,6 @@ results
 
 npm-debug.log
 node_modules
+
+node-serial.sublime-project
+node-serial.sublime-workspace
